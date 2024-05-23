@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Yuvrajsinghspd09/Yuvrajsinghspd09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi there, welcome to my coding haven! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🧑‍💻 I'm Yuvraj, a passionate software engineer and ML enthusiast.
+- 🚀 Specializing in Machine Learning, Data Structures, and Algorithms.
+- 🌱 Always learning new technologies and improving my skills.
+
+  ## Interests
+- 🧠 Machine Learning and Deep Learning
+- 🔢 Data Structures and Algorithms
+- 🐍 Python Programming
+- 📊 Data Science and Analytics
+
+
+## Skills
+- **Languages**: Python, C++
+- **Frameworks and Libraries**: TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy
+- **Tools and Platforms**: Jupyter Notebook, Git
+
+![Profile Views](https://komarev.com/ghpvc/?username=Yuvrajsinghspd09&color=brightgreen)
+
+## My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuvrajsinghspd09&show_icons=true&theme=radical)
+
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajsinghspd09&layout=compact&theme=radical)
