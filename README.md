@@ -19,19 +19,7 @@
 - **Frameworks and Libraries**: TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy
 - **Tools and Platforms**: Jupyter Notebook, Git
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yuvrajsinghspd09&color=brightgreen)
-
-## My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuvrajsinghspd09&show_icons=true&theme=radical&count_private=true)
-
-## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajsinghspd09&layout=compact&theme=radical&count_private=true)
-
-## Contributions
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yuvrajsinghspd09&theme=radical)
 
 
 
-Contact Me
-- [LinkedIn](https://www.linkedin.com/in/yuvraj-singh09)
 
