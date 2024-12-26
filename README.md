@@ -1,14 +1,12 @@
 
 
-# Hi there, welcome to my coding haven! 👋
+# Hi there! 👋
 
-## About Me
-- 🧑‍💻 I'm Yuvraj, a passionate software engineer and ML enthusiast.
-- 🚀 Specializing in Machine Learning, Data Structures, and Algorithms.
-- 🌱 Always learning new technologies and improving my skills.
 
   ## Interests
 - 🧠 Machine Learning and Deep Learning
+- 🤖 Artificial Intelligence
+- 📚 LLMs (Large Language Models)
 - 🔢 Data Structures and Algorithms
 - 🐍 Python Programming
 - 📊 Data Science and Analytics
